@@ -28,7 +28,7 @@ Cloudflare 的免费额度可提供每日 10 万次访问的免费追踪，结�
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https%3A%2F%2Fgithub.com%2FRavelloH%2FInsightFlare)
 
-Cloudflare 会自动 Clone 这个仓库、创建并绑定所需要的资源。其中，你需要填写下面两个 Secret：
+Cloudflare 会自动 Clone 这个仓库、创建并绑定所需要的资源。 其中，你需要填写下面两个 Secret：
 
 | 名称                       | 用途                                                       |
 | -------------------------- | ---------------------------------------------              |
